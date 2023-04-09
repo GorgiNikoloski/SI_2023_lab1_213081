@@ -1,0 +1,31 @@
+:\Users\ASUS\Desktop\SI_2023_lab1_213081>git log --all
+commit 4208a94e52ea5416a26bb34463844b2b7fe3b803 (HEAD -> master, origin/master, bug3)
+Author: Gorgi Nikoloski <gorgi1nikoloski@gmail.com>
+Date:   Sun Apr 9 01:16:04 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 9898d6cfa1945b4bcf8097b297a68c51b3ef0a29
+Merge: bc84b58 99a1155
+Author: Gorgi Nikoloski <gorgi1nikoloski@gmail.com>
+Date:   Sun Apr 9 01:22:47 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 383ff97acec183f96c6b281fb1dbb061dfde286e (origin/bug3)
+Author: Gorgi Nikoloski <gorgi1nikoloski@gmail.com>
+Date:   Sun Apr 9 01:16:04 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 99a1155f9a65e966f009fdd86440fe7a32a3b07a (origin/bug2, bug2)
+Author: Gorgi Nikoloski <gorgi1nikoloski@gmail.com>
+Date:   Sun Apr 9 01:13:51 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit bc84b581eb99767594f0716d51e8f6dd6542ccc3 (origin/bug1, bug1)
+Author: Gorgi Nikoloski <gorgi1nikoloski@gmail.com>
+Date:   Sun Apr 9 01:11:41 2023 +0200
+
+    Fix wrong loop for reading
